@@ -1,0 +1,11 @@
+#ammoIndicator > #reserve {
+}
+
+#ammoIndicator > .unity-text-element {
+    color: rgba(0, 185, 255, 255);
+}
+
+.unity-text-element {
+    -unity-font: resource('Fonts/Skranji/Skranji-Regular');
+    -unity-font-definition: resource('Fonts/Skranji/Skranji-Regular SDF');
+}
