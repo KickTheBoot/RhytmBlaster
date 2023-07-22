@@ -755,8 +755,7 @@ MonoBehaviour:
   speed: 10
   jumpSpeed: 7
   MaximumVelocity: 10
-  acceleration: 20
-  deceleration: 15
+  deceleration: 40
   CharacterGravity: {x: 0, y: -9.8, z: 0}
 --- !u!143 &1278251801
 CharacterController:
