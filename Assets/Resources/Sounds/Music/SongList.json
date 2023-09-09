@@ -1,0 +1,20 @@
+{
+    "songMetas": [
+        {
+            "SongName":"FinalBoss_2",
+            "Tempo":165,
+            "BeatsPerMeasure":4
+        },
+        {
+            "SongName":"HappyTune",
+            "Tempo":120,
+            "BeatsPerMeasure":4
+        },
+        {
+            "SongName":"AlleyDeal",
+            "Tempo":160,
+            "BeatsPerMeasure":4
+        }
+
+    ]
+}
