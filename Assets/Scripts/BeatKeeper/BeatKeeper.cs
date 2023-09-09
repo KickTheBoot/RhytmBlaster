@@ -34,17 +34,12 @@ public class BeatKeeper : MonoBehaviour
         }
     }
 
-    void awake()
+    void Start()
     {
         if(!instance)
         {
             instance = this;
         }
-
-    }
-
-    void Start()
-    {
         m_audioSource = GetComponent<AudioSource>();
         Play();
     }
